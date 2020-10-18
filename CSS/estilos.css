@@ -1,0 +1,148 @@
+body {
+    background:#fdf6e0;
+    background-attachment:fixed;}
+
+
+.menu{
+    color:#ffffff;
+    font-size:150%;
+    width:50%;
+    background:#dcdfe2;
+    list-style:none;
+    margin:0;
+    padding:0;
+    border-radius:20px;
+}
+
+table td a{
+    color:red;
+}
+
+.menu li{
+    display:inline-block;
+}
+
+.menu li a{
+    padding:15px 20px;
+    display:inline-block;
+
+}
+
+.menu{
+    position:fixed;
+    top:0px;
+    bottom:;
+    right:330px;
+    left:;
+}
+
+aside{
+    background:#ff9999;
+    margin:0;
+    padding:0;
+    border-color: red black rgb(45, 0, 128) orange;
+    border-width: 5px;
+    border-style: solid;
+}
+
+aside{
+    display: inline-block;
+}
+
+aside{
+    padding:40px 5px ;
+    display: inline-block;
+}
+
+aside{
+    position: relative;
+    top:0;
+    left:750px;
+}
+
+footer{
+    background:#000;
+    margin:0;
+    padding:0;
+    color:#ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:15px;
+    font-weight:normal;
+    text-align:center; 
+}
+
+footer{
+
+   
+}
+
+footer{
+    padding:10px 20px;
+   
+}
+
+.titulo{
+    font-size:40px;
+    
+}
+
+table{
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-align:center;
+}
+
+table{
+    position:center;
+    border: solid black;
+    border-collapse:collapse;
+}
+table td{
+    border: solid black;
+    padding:2px 3px;
+}
+table td:hover {
+    background: rgb(65, 24, 24);
+    color:#ffff;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:30px;
+    color:#123456;
+    font-weight:normal;
+    text-align: center;
+}
+
+article p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    font-weight:normal;
+}
+
+.subtitulo{
+    background: #dcdfe2;
+    padding:30px 40px;
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px;
+    color:#080a18;
+    font-weight:normal;
+    text-align:center;  
+}
+
+.subtitulo{
+    position: relative;
+    left:460px;
+}
+
+
+
+.sibear{
+    font-size:26px;
+    list-style:none;
+}
+.sibear2{
+    font-size:20px;
+}
